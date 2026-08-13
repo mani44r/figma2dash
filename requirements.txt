@@ -10,3 +10,4 @@ python-multipart==0.0.9
 pyyaml==6.0.1
 pillow==10.3.0
 requests==2.31.0
+mangum==0.17.0
